@@ -6,7 +6,7 @@ CDVC6WQBXJ2ZOIRRDTD32OMYJPJRXEILPRBS5FGWOBZMCLFOXUHPQSPR
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/565fc5af-15df-46eb-a45f-ca8f014c99b4" />
 
 ## Who are you: 
-- name: Thomas 
+- name: thomaspythoneer 
 - blockchain developer
 - Stellar Soroban enthusiast
 - Next.js developer
